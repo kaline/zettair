@@ -107,6 +107,7 @@ zet -f <nome_do_índice> <consulta>
 - Uso: ``` zet_trec -f <arquivo_de_topicos> <nome_do_indice> ```
 
 Exemplo: ``` ..\zet_trec -f topicos05.txt porter ```
+![..\zet_trec -f topicos05.txt porter](https://user-images.githubusercontent.com/31135896/179855233-df64419a-a658-48a9-86b9-05245785aefb.jpg)
 
 
 ### References
