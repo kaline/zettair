@@ -24,10 +24,15 @@ To linux run theses commands:
 
  ![./zet -i -f indice1 --file-list lista_arquivos.txt ](https://user-images.githubusercontent.com/31135896/179834868-2a64b619-1410-4b23-896e-65d113c34e5e.jpg)
  
+ ![image](https://user-images.githubusercontent.com/31135896/179841651-8ebd93d2-ec37-4c84-9371-fa1a8b429997.png)
+
+ 
  Criar um índice completo na indexação sem stemming:
  
- ./zet -i -f completo --big-and-fast --stem none --file-list lista_arquivos.txt
- ![./zet -i -f completo --big-and-fast --stem none --file-list lista_arquivos.txt](https://user-images.githubusercontent.com/31135896/179839883-96531cd7-7ad5-457b-a1c0-a91e09f002cb.jpg)
+ ./zet -i -f completo1 --big-and-fast --stem none --file-list lista_arquivos.txt
+ ![./zet -i -f completo1 --big-and-fast --stem none --file-list lista_arquivos.txt](https://user-images.githubusercontent.com/31135896/179839883-96531cd7-7ad5-457b-a1c0-a91e09f002cb.jpg)
+
+![image](https://user-images.githubusercontent.com/31135896/179841979-9a613a80-cde8-43fb-803c-f3630f04f910.png)
 
 
 ### References
