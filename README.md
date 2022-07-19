@@ -117,6 +117,11 @@ Exemplo: ``` ..\zet_trec -f topicos05.txt porter ```
  ![./zet_trec -t -d -f topicos05.txt -n 100 --okapi --query-stop stopwords.txt --big-and-fast -r okapi porter >saida_okapi.txt](https://user-images.githubusercontent.com/31135896/179855559-90ca20cb-320c-48b3-a1c9-6d925c5c10c9.png)
 
 
+* Já que ocorreu o erro acima no linux, então a solução foi gerar as saídas no windows:
+
+![image](https://user-images.githubusercontent.com/31135896/179858640-b4afdfa2-560f-41b9-b9ae-3b20cc0da2f0.png)
+
+
 ### References
 
 <p><a href="http://www.seg.rmit.edu.au/zettair/index.html">Zettair home page</a></p>
