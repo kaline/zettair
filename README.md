@@ -121,6 +121,10 @@ Exemplo: ``` ..\zet_trec -f topicos05.txt porter ```
 
 ![image](https://user-images.githubusercontent.com/31135896/179858640-b4afdfa2-560f-41b9-b9ae-3b20cc0da2f0.png)
 
+Para rodar o comando no linux, foi usado o dos2unix para converter o arquivo txt para formato unix:
+
+``` dos2unix saida_okapi.txt 
+```
 
 ### References
 
