@@ -58,6 +58,14 @@ zet -f <nome_do_índice> <consulta>
 
  ![ ..\zet -f completo -n 10 "earthquake"](https://user-images.githubusercontent.com/31135896/179851902-4824ad5a-33a2-4e96-8330-942c46046b3a.jpg)
 
+```
+..\zet -f porter -n 2 --summary capitalise "house cat"
+
+```
+
+![.\zet -f porter -n 2 --summary capitalise "house cat"](https://user-images.githubusercontent.com/31135896/179853439-88476d1f-57c0-46ed-93b8-a82817decce7.png)
+
+
 
 ### References
 
