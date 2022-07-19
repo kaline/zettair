@@ -66,6 +66,14 @@ zet -f <nome_do_índice> <consulta>
 ![.\zet -f porter -n 2 --summary capitalise "house cat"](https://user-images.githubusercontent.com/31135896/179853439-88476d1f-57c0-46ed-93b8-a82817decce7.png)
 
 
+```
+..\zet -f porter -n 2 --summary capitalise "apple banana"
+
+```
+
+![image](https://user-images.githubusercontent.com/31135896/179853763-e6f55403-7397-4f6d-9e8c-208bd917cb9a.png)
+
+
 
 ### References
 
