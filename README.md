@@ -125,6 +125,12 @@ Para rodar o comando no linux, foi usado o dos2unix para converter o arquivo txt
 
 ``` dos2unix saida_okapi.txt ```
 
+ Agora é possível verificar precisão do okapi:
+ 
+ ``` trec_eval -c -o qrels_GH05.txt saida_okapi.tx  ```
+![Screenshot_deepin-terminal_20220719193800](https://user-images.githubusercontent.com/31135896/179860122-ffcc4657-d092-470f-9210-57f34e4e5569.jpg)
+
+
 ### References
 
 <p><a href="http://www.seg.rmit.edu.au/zettair/index.html">Zettair home page</a></p>
