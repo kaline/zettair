@@ -127,8 +127,11 @@ Para rodar o comando no linux, foi usado o dos2unix para converter o arquivo txt
 
  Agora é possível verificar precisão do okapi:
  
- ``` trec_eval -c -o qrels_GH05.txt saida_okapi.tx  ```
+ ``` trec_eval -c -o qrels_GH05.txt saida_okapi.txt  ```
 ![Screenshot_deepin-terminal_20220719193800](https://user-images.githubusercontent.com/31135896/179860122-ffcc4657-d092-470f-9210-57f34e4e5569.jpg)
+
+ ``` trec_eval -c -o qrels_GH05.txt saida_cosine.txt  ```
+![Screenshot_deepin-terminal_20220719195107](https://user-images.githubusercontent.com/31135896/179861476-7ff7f2c2-83ee-4ab3-8ac6-831b7aa62f2f.jpg)
 
 
 ### References
