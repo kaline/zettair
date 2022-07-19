@@ -110,6 +110,13 @@ Exemplo: ``` ..\zet_trec -f topicos05.txt porter ```
 ![..\zet_trec -f topicos05.txt porter](https://user-images.githubusercontent.com/31135896/179855233-df64419a-a658-48a9-86b9-05245785aefb.jpg)
 
 
+```./zet_trec -t -d -f topicos05.txt -n 100 --okapi --query-stop stopwords.txt --big-and-fast -r okapi porter >saida_okapi.txt ```
+
+ * Abaixo possíveis problemas no linux com a versão 0.9.3 do zettair:
+ 
+ ![./zet_trec -t -d -f topicos05.txt -n 100 --okapi --query-stop stopwords.txt --big-and-fast -r okapi porter >saida_okapi.txt](https://user-images.githubusercontent.com/31135896/179855559-90ca20cb-320c-48b3-a1c9-6d925c5c10c9.png)
+
+
 ### References
 
 <p><a href="http://www.seg.rmit.edu.au/zettair/index.html">Zettair home page</a></p>
