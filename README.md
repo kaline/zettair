@@ -73,6 +73,12 @@ zet -f <nome_do_índice> <consulta>
 
 ![image](https://user-images.githubusercontent.com/31135896/179853763-e6f55403-7397-4f6d-9e8c-208bd917cb9a.png)
 
+```
+..\zet -f porter -n 2 --summary capitalise "banana ak47"
+
+```
+
+![image](https://user-images.githubusercontent.com/31135896/179854442-28759726-2ce8-498e-bf88-822bba02a561.png)
 
 ```
 ..\zet -f porter -n 2 --summary capitalise "house AND cat"
@@ -87,6 +93,20 @@ zet -f <nome_do_índice> <consulta>
 ```
 
 ![image](https://user-images.githubusercontent.com/31135896/179854231-e8de6292-cd51-4119-a03a-f2a65731667b.png)
+
+```
+..\zet -f porter -n 2 --summary capitalise "banana AND ak47"
+
+```
+
+![image](https://user-images.githubusercontent.com/31135896/179854628-73c97b54-6187-4bf1-9114-8d99f95c03e4.png)
+
+
+### Executando consultas em lote
+
+- Uso: ``` zet_trec -f <arquivo_de_topicos> <nome_do_indice> ```
+
+Exemplo: ``` ..\zet_trec -f topicos05.txt porter ```
 
 
 ### References
