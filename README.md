@@ -11,6 +11,12 @@ To linux run theses commands:
 - 2 - make
 - 3 - make install 
 
+### Run commands
+
+#### The collection of documents
+ 
+ - C:\Zettair\GH95
+ - \Zettair\GH95
 
 ### References
 
