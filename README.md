@@ -123,8 +123,7 @@ Exemplo: ``` ..\zet_trec -f topicos05.txt porter ```
 
 Para rodar o comando no linux, foi usado o dos2unix para converter o arquivo txt para formato unix:
 
-``` dos2unix saida_okapi.txt 
-```
+``` dos2unix saida_okapi.txt ```
 
 ### References
 
