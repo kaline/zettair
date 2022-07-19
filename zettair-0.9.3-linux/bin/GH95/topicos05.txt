@@ -1,0 +1,353 @@
+<top>
+<num> 251 </num>
+<title> Alternative Medicine <title>
+<desc> Find documents discussing any kind of alternative or natural medical treatment including specific therapies such as acupuncture, homeopathy, chiropractics, or others. <desc>
+<narr> Relevant documents will provide general or specific information on the use of natural or alternative medical treatments or practices. <narr>
+</top>
+
+<top>
+<num> 252 </num>
+<title> Pension Schemes in Europe <title>
+<desc> Find documents that give information about current pension systems and retirement benefits in any European country. <desc>
+<narr> Relevant documents will contain information on current pension schemes and benefits in single European states. Information of interest includes minimum and maximum ages for retirement and the way in which the retirement income is calculated. Plans for future pension reform are not relevant. <narr>
+</top>
+
+<top>
+<num> 253 </num>
+<title> Countries with Death Penalty <title>
+<desc> In which countries or states is the death penalty still practiced or at least permitted by the constitution? <desc>
+<narr> Documents explicitly stating that the constitution of a given state permits capital punishment are obviously relevant. Documents reporting specific death sentences are also relevant as long as the state or country concerned is mentioned clearly. <narr>
+</top>
+
+<top>
+<num> 254 </num> 
+<title> Earthquake Damage <title>
+<desc> Find documents describing damage to property or persons caused by an earthquake and specifying the area affected. <desc>
+<narr> Relevant documents will provide details on damage to buildings and material goods or injuries to people as a result of an earthquake. The geographical location (e.g. country, region, city) affected by the earthquake must also be mentioned. <narr>
+</top>
+
+<top>
+<num> 255 </num>
+<title> Internet Junkies <title>
+<desc> Does frequent use of the Internet cause addiction? <desc>
+<narr> Relevant documents discuss whether regular use of the Internet is habit-forming and can lead to physiological or psychological dependence. <narr>
+</top>
+
+<top>
+<num> 256 </num>
+<title> Creutzfeldt-Jakob Disease <title>
+<desc> Find documents describing symptoms of any variant of the Creutzfeldt-Jakob disease or reports that link CJD to Bovine Spongiform Encephalopathy (BSE), otherwise known as the mad-cow disease. <desc>
+<narr> Relevant documents will describe the symptoms of subjects suspected or diagnosed as having the Creutzfeldt-Jakob disease or will focus on reported links between CJD and BSE, otherwise known as the mad-cow disease. <narr>
+</top>
+
+<top>
+<num> 257 </num>
+<title> Ethnic Cleansing in the Balkans <title>
+<desc> Find documents reporting specific incidents of crimes against humanity or genocide in former Yugoslavia or the Balkan area. <desc>
+<narr> Relevant documents must describe specific episodes of ethnic cleansing or genocide in the Balkan region and, in particular, in Bosnia, Kosovo, Croatia and Macedonia. <narr>
+</top>
+
+<top> 
+<num> 258 </num> 
+<title> Brain-Drain Impact <title> 
+<desc> Find documents about problems caused by the "brain drain" and information on the countries and regions most strongly affected. <desc> 
+<narr> Relevant documents must cite some of the problems caused by the transfer of highly talented people or skilled-labour power from poorer regions of the world to more prosperous areas. The countries involved should be named. <narr> 
+</top> 
+
+<top> 
+<num> 259 </num> 
+<title> Golden Bear <title> 
+<desc> Which movies have been awarded the Golden Bear at the Berlin Film Festival? <desc> 
+<narr> Any document naming a film that has won the Golden Bear is relevant. <narr> 
+</top> 
+
+<top>
+<num> 260 </num>
+<title> Anti-Smoking Legislation <title>
+<desc> Find documents that describe laws or regulations that prohibit smoking in public places. <desc>
+<narr> Relevant documents must give some details on anti-smoking laws, rules or policies currently in effect in any country. They may also specify the penalty for transgressions. Documents on proposals for anti-smoking legislation are not relevant. <narr>
+</top>
+
+<top>
+<num> 261 </num>
+<title> Fortune-telling <title>
+<desc> How do fortune-tellers predict the future? <desc>
+<narr> Relevant documents will mention any of the various techniques employed by fortune-tellers or soothsayers to read the future (i.e. astrology, palmistry, crystal balls, card reading). Predictions without details on the technique used to make them are not relevant. <narr>
+</top>
+
+<top>
+<num> 262 </num>
+<title> Benefit Concerts <title>
+<desc> What causes or charities receive funds from benefit concerts? <desc>
+<narr> Relevant documents will report on specific benefit concerts and must provide information on the particular causes or charities to be beneficiaries of funds raised by the concert. <narr>
+</top>
+
+<top>
+<num> 263 </num>
+<title> Football Refereeing Disputes <title>
+<desc> Find documents in which decisions made by a referee during a football match are criticised. <desc>
+<narr> Relevant documents report on football (soccer) matches in which the referee made some disputable or disputed decision. <narr>
+</top>
+
+<top>
+<num> 264 </num>
+<title> Smuggling of Radioactive Material <title>
+<desc> Find documents on illicit trafficking between countries of radioactive substances and nuclear materials. <desc>
+<narr> Any document reporting cases of criminal trafficking or smuggling of both civilian and military nuclear material or radioactive waste over national borders is relevant <narr>
+</top>
+
+<top>
+<num> 265 </num>
+<title> Deutsche Bank Takeovers<title>
+<desc> Find the names of firms that have been totally or partially purchased by Deutsche Bank or for which negotiations are currently underway. <desc>
+<narr> Relevant documents list firms that have been bought or taken over by Deutsche Bank; reports of negotiations underway are also relevant. <narr>
+</top>
+
+<top>
+<num> 266 </num>
+<title> Discrimination against European Gypsies <title>
+<desc> Find documents reporting recent episodes of harassment, discrimination or violence against gypsies in Europe. <desc>
+<narr> Of interest are documents describing any kind of action or bad treatment against gypsies in Europe nowadays. <narr>
+</top>
+
+<top>
+<num> 267 </num>
+<title> Best Foreign Language Films <title>
+<desc> What films were nominated for the Oscar in the "best foreign language film" category? <desc>
+<narr> Relevant documents will provide the title and nationality of the films nominated in the Oscar "best foreign language film" category. <narr> 
+</top>
+
+<top>
+<num> 268 </num>
+<title> Human Cloning and Ethics <title>
+<desc> Find documents debating ethical or moral problems related to eventual genetic cloning of human beings. <desc>
+<narr> Relevant documents will report discussions on the ethical problems raised by the possibility of creating human clones. Proposals for legislation to ban human cloning for ethical reasons are also relevant. Reports on the technological limits and difficulties of cloning methods applied to humans are not relevant. <narr>
+</top>
+
+<top> 
+<num> 269 </num> 
+<title> Treaty Ratification <title> 
+<desc> Find documents mentioning the official ratification of international treaties. <desc> 
+<narr> Relevant documents should mention the treaty and the country or countries ratifying it. Documents simply mentioning that a country signed or is part of a treaty are not relevant. <narr> 
+</top> 
+
+<top>
+<num> 270 </num>
+<title> Microsoft Competitors <title>
+<desc> Which companies are actual or potential competitors or rivals of Microsoft? <desc>
+<narr> Relevant documents will mention the names of firms that are competitors of Microsoft. The names of rival products are also of interest. <narr>
+</top>
+
+<top>
+<num> 271 </num>
+<title> Gay Marriages <title>
+<desc> Should unions between homosexual couples be recognised as legal marriages by the state? <desc>
+<narr> Relevant documents should report discussions and debates on whether same-sex unions should be legally recognised as marriages. All opinions and positions on the topic are relevant whether made by state or religious authorities or by individuals. <narr>
+</top>	
+
+<top>
+<num> 272 </num>
+<title> Czech President's Background <title>
+<desc> Find documents that make specific mention of the literary and humanist background of the President of the Czech Republic, Vaclav Havel. <desc>
+<narr>  Relevant documents must mention Havel's literary and humanist background as well as the fact that he is the President of the Czech Republic. <narr>
+</top>
+
+<top>
+<num> 273 </num>
+<title> NATO Expansion <title>
+<desc> Look for discussions on the expansion of the North Atlantic Treaty Organisation to include countries that were formerly part of the communist Central and East-European bloc. <desc>
+<narr> Any discussion in favour or against expanding NATO eastwards to include countries formerly part of, allied with or under the political influence of the USSR is relevant. <narr>
+</top>
+
+<top>
+<num> 274 </num>
+<title> Unexploded World War II Bombs <title>
+<desc> Find reports on findings of unexploded bombs, land mines or other munitions left over from the Second World War. <desc>
+<narr> Relevant documents must specify the location in which unexploded bombs or other munitions left over from World War II have been found. Details on measures for excavation of the areas concerned and the actions of bomb disposal units are also of interest. Reports on known official munition dumps are not pertinent. <narr>
+</top>
+
+<top>
+<num> 275 </num>
+<title> Smoking-related Diseases <title>
+<desc> What diseases or medical problems are suspected to be related to either passive or active smoking? <desc>
+<narr> Relevant documents must report specific information on at least one disease which is considered to be a direct consequence of cigarette smoking or exposure to cigarette smoke. General discussions on the health risks of smoking are not relevant. <narr> 
+</top>
+
+<top>
+<num> 276 </num>
+<title> EU Agricultural Subsidies <title>
+<desc> Find information on agricultural subsidies within the European Union. <desc>
+<narr> Relevant documents must contain information about European Union agricultural subsidies and related policies. Subsidies of countries outside the EU are not relevant. <narr>
+</top> 
+
+<top>
+<num> 277 </num>
+<title> Euthanasia by Medics <title>
+<desc> Relevant documents will report on specific cases of declared or suspected euthanasia or mercy killings in hospital or by members of the medical profession. <desc>
+<narr> All documents that provide some information on probable occurrences of euthanasia or mercy killings - either suspected or proven - by doctors, nurses or other members of the medical profession are relevant. General discussions on laws to regulate euthanasia and statements by religious leaders or politicians are not of interest. <narr>
+</top>
+
+<top>
+<num> 278 </num>
+<title> Transport for Disabled <title>
+<desc> What problems do physically disabled people face when using public transport and what remedies are being proposed or adopted? <desc>
+<narr> Relevant documents will describe the difficulties faced by the physically impaired when using public transport and/or report on progress made in eliminating these problems. <narr>
+</top>
+
+<top> 
+<num> 279 </num> 
+<title> Swiss referendums <title> 
+<desc> Find documents describing the holding of referendums in Switzerland. <desc> 
+<narr> Relevant documents should mention the reasons for or the results of any referendum in Switzerland. <narr> 
+</top> 
+
+<top>
+<num> 280 </num>
+<title> Crime in New York <title>
+<desc> Find information on criminal episodes or reports on changes in the rate of crime in the city of New York. <desc>
+<narr> Relevant documents will provide information on criminal activity in New York. Descriptions of single episodes of theft, burglary or violence are of interest as are reports on crime statistics and on increases or declines in the incidence of crime in this city.<narr>
+</top>
+
+<top>
+<num> 281 </num>
+<title> Radovan Karadzic <title>
+<desc> Find material about ethnic Serbian war leader Radovan Karadzic, examining his history and providing information on his involvement in war crimes and crimes against humanity. <desc>
+<narr> Any information on crimes committed by Radovan Karadzic is of interest as is information on his indictment by the United Nations war crimes tribunal. <narr>
+</top>
+
+<top>
+<num> 282 </num>
+<title> Prison Abuse <title>
+<desc> Find reports of specific cases of abuse or torture of prisoners by prison guards, military personnel or police. <desc>
+<narr> Relevant documents must refer to specific incidents of abuse or torture and provide details of the place where they occurred. General discussions are not pertinent. <narr>
+</top>
+
+<top>
+<num> 283 </num>
+<title> James Bond Films <title>
+<desc> Find documents reporting the names of James Bond films and/or the names of actors who have played the role of James Bond over the years. <desc>
+<narr> Relevant documents report the names of various Bond films or the names of the actors who have played the lead role. <narr>
+</top>
+
+<top>
+<num> 284 </num>
+<title> Space Shuttle Missions <title>
+<desc> Find information about space shuttle missions in which difficulties, delays or failures in experiments occur. <desc>
+<narr> Any documents that report any kind of problem or deviation from the expected schedule in a space shuttle mission are relevant. <narr>
+</top>
+
+<top>
+<num> 285 </num>
+<title> Anti-abortion Movements <title>
+<desc> Find reports on any action by members of anti-abortion movements or on efforts to restrict or abolish the laws regulating abortion. <desc>
+<narr> Any action by members of the anti-abortion movement, including demonstrations and protest marches, but also specific actions against abortion clinics is of interest. Statements by individuals in favour of abolishing or restricting legal abortion are also relevant. <narr>
+</top>
+
+<top>
+<num> 286 </num>
+<title> Football Injuries <title>
+<desc> Find documents which describe injuries to professional footballers during football (soccer) matches or pre-match training sessions. <desc>
+<narr> Relevant documents will describe the occurrence of any kind of soccer playing injury including contusions, muscle sprains, pulled hamstrings and cartilage damage but also more serious injuries such as broken limbs or concussion. <narr>
+</top> 
+
+<top>
+<num> 287 </num> 
+<title> Hostage / Terrorist Situations<title>
+<desc> Find documents which discuss situations involving the taking of hostages by terrorists or militant groups. <desc>
+<narr> Relevant documents describe actual cases in which people are taken as hostages by terrorists or militant groups. Stories or films that describe the capturing of hostages are to be excluded, as are any legal claims made by former hostages. <narr>
+</top> 
+
+<top>
+<num> 288 </num>
+<title> US Cars Import <title>
+<desc> What makes of cars are imported into the USA? <desc>
+<narr> Relevant documents will contain information about makes or manufactures of cars sold in the USA, but not produced in that country. <narr>
+</top>
+
+<top> 
+<num> 289 </num> 
+<title> Falkland Islands <title> 
+<desc> Find documents giving information on the Falkland Islands <desc> 
+<narr> Relevant documents must actually be about the Falkland Islands (otherwise known as the Malvinas), not simply mention them and should provide some historical, geographical, economic or social information. <narr> 
+</top> 
+
+<top>
+<num> 290 </num>
+<title> Oil Price Fluctuation <title>
+<desc> Why do the international prices of oil change? <desc>
+<narr> Relevant documents describe direct reasons for fluctuations in the price of oil (e.g. reduction of resources, wars, weather). Documents reporting changes in international oil prices without mentioning the causes are not relevant. <narr>
+</top>
+
+
+<top>
+<num> 291 </num>
+<title> EU Illegal Immigrants <title>
+<desc> Find documents related to the phenomenon of illegal immigration in European Union countries, including descriptions of single incidents involving the discovery or activities of illegal immigrants and more general statements discussing the problem. <desc>
+<narr> Relevant documents refer only to illegal immigration towards countries of the European Union. Any information is of interest including the role played by criminal groups in harbouring, transporting and exploiting these people.<narr>
+</top> 
+
+<top>
+<num> 292 </num>
+<title> Rebuilding German Cities <title>
+<desc> Find descriptions of the reconstruction of important and historic buildings in German towns or cities that were heavily damaged or destroyed by bombing during World War II. <desc>
+<narr> Relevant documents will describe the reconstruction of important and historic buildings in German towns that were heavily bombed during the Second World War. Any German city is of interest but it is expected that most documents will refer to Berlin, Dresden or Leipzig. <narr>
+</top>
+
+<top>
+<num> 293 </num>
+<title> China-Taiwan Relations <title>
+<desc> Find information on current relations between China and Taiwan including reports on any hostile actions by China against Taiwan. <desc>
+<narr> Any document that gives some information on the difficult relations between China and Taiwan is relevant, including reports of efforts by China to influence the relations of other countries with Taiwan. <narr>
+</top>
+
+<top>
+<num> 294 </num>
+<title> Hurricane Force <title>
+<desc> What is the speed of winds in a hurricane? <desc>
+<narr> The strength or force of a hurricane is evidenced by the wind speed. Relevant documents must provide specific figures for hurricane storm force or wind speed. <narr>
+</top>
+
+<top> 
+<num> 295 </num> 
+<title> Money Laundering <title> 
+<desc> Find documents discussing the financial crime known as money laundering, which is the process whereby criminals conceal illicitly acquired funds by converting them into seemingly legitimate income. <desc> 
+<narr> Relevant documents will provide any information on money laundering by criminal organisations - including the use of tax havens - or can describe international measures to combat it. <narr> 
+</top> 
+
+<top> 
+<num> 296 </num> 
+<title> Public Performances of Liszt <title> 
+<desc> Find documents mentioning public performances of works by the Hungarian composer Franz Liszt. <desc> 
+<narr> Relevant documents will mention any kind of public performance, concert or recital of pieces by Liszt and must also specify where the performance was held. Documents simply mentioning the existence of works by Liszt are not relevant. <narr> 
+</top> 
+
+<top> 
+<num> 297 </num> 
+<title> Expulsion of Diplomats <title> 
+<desc> Find documents describing the expulsion of diplomats from any country. <desc> 
+<narr> Relevant documents should mention the country of origin of the diplomats, and that from where they were expelled <narr> 
+</top> 
+
+<top>
+<num> 298 </num>
+<title> Nuclear Power Stations <title>
+<desc> Find documents reporting accidents in nuclear power stations or discussing the likelihood of an accident and the potential risk to the population. <desc>
+<narr> Relevant documents should specify the location or name of the nuclear power station and either give some information on actual accidents or discuss potential risks. <narr>
+</top>
+
+<top>
+<num> 299 </num>
+<title> UN Peacekeeping Risks <title>
+<desc> Find documents reporting specific incidents in which UN peacekeeping troops have been taken hostage, injured or killed. <desc>
+<narr> Relevant documents must provide some details on incidents in which the lives of United Nations peacekeeping troops have been put at risk. <narr>
+</top>
+
+<top> 
+<num> 300 </num> 
+<title> Lottery Winnings <title> 
+<desc> Find documents about the winning of lottery prizes. <desc> 
+<narr> Only documents reporting the actual winning of lottery prizes and providing some kind of information about the winners, such as their names, background or origins are relevant. Documents simply listing prizes to be awarded are not relevant <narr> 
+</top>
+
+
+
