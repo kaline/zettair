@@ -18,9 +18,11 @@ To linux run theses commands:
  - C:\Zettair\GH95
  - \Zettair\GH95
  
- Criação: ./zet -i -f indice1 --file-list lista_arquivos.txt 
+ Criação de índice,com zettair, chamado "índice1" da lista de arquivos: 
+ 
+ ./zet -i -f indice1 --file-list lista_arquivos.txt 
 
- ![Screenshot_deepin-terminal_20220719164135](https://user-images.githubusercontent.com/31135896/179834868-2a64b619-1410-4b23-896e-65d113c34e5e.jpg)
+ ![./zet -i -f indice1 --file-list lista_arquivos.txt ](https://user-images.githubusercontent.com/31135896/179834868-2a64b619-1410-4b23-896e-65d113c34e5e.jpg)
  
  Criar um índice completo na indexação sem stemming:
  
