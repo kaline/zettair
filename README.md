@@ -24,11 +24,9 @@ To linux run theses commands:
  ./zet -i -f indice1 --file-list lista_arquivos.txt 
 ```
 
-```
 
  ![./zet -i -f indice1 --file-list lista_arquivos.txt ](https://user-images.githubusercontent.com/31135896/179834868-2a64b619-1410-4b23-896e-65d113c34e5e.jpg)
  
- ```
  
  ![image](https://user-images.githubusercontent.com/31135896/179841651-8ebd93d2-ec37-4c84-9371-fa1a8b429997.png)
 
