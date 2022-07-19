@@ -18,6 +18,8 @@ To linux run theses commands:
  - C:\Zettair\GH95
  - \Zettair\GH95
  
+ Criação: ./zet -i -f indice1 --file-list lista_arquivos.txt 
+
  ![Screenshot_deepin-terminal_20220719164135](https://user-images.githubusercontent.com/31135896/179834868-2a64b619-1410-4b23-896e-65d113c34e5e.jpg)
 
 
