@@ -139,9 +139,10 @@ Para rodar o comando no linux, foi usado o dos2unix para converter o arquivo txt
 
 ![Screenshot_20220719201242](https://user-images.githubusercontent.com/31135896/179863550-9e214565-5bf2-4ed7-978a-e764e5fdff16.jpg)
 
- ``` trec_eval -c -o -q qrels_GH05.txt saida_okapi.txt  ```
+ ``` trec_eval -q qrels_GH05.txt saida_okapi.txt  ```
 
-![Screenshot_select-area_20220719215247](https://user-images.githubusercontent.com/31135896/179872492-646da58b-c615-4604-b5a8-d860a7e51880.jpg)
+![Screenshot_20220719221023](https://user-images.githubusercontent.com/31135896/179874148-488e612c-6f94-481e-b875-e5d7463674d6.jpg)
+
 
 
 ### References
