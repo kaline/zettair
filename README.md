@@ -41,6 +41,16 @@ To linux run theses commands:
 
 ![image](https://user-images.githubusercontent.com/31135896/179841979-9a613a80-cde8-43fb-803c-f3630f04f910.png)
 
+
+ ```
+ ./zet -i -f porter --big-and-fast --stem porter --file-list lista_arquivos.txt
+ ```
+
+![Screenshot_20220720004400](https://user-images.githubusercontent.com/31135896/179892053-60ee1c9d-0496-40ac-9cce-64cd9ce6a9ae.jpg)
+
+
+ 
+
 ### Realizando consultas no modo interativo
 
 ```
