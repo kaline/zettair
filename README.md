@@ -143,6 +143,16 @@ Para rodar o comando no linux, foi usado o dos2unix para converter o arquivo txt
 
 ![Screenshot_20220719221023](https://user-images.githubusercontent.com/31135896/179874148-488e612c-6f94-481e-b875-e5d7463674d6.jpg)
 
+ ``` trec_eval -q qrels_GH05.txt saida_default.txt  ```
+
+![Screenshot_20220719224416](https://user-images.githubusercontent.com/31135896/179877711-97876d78-76c1-432b-ab0a-4ec576ae2b0a.jpg)
+
+
+ ``` trec_eval -q qrels_GH05.txt saida_cosine.txt  ```
+
+
+![Screenshot_deepin-terminal_20220719224603](https://user-images.githubusercontent.com/31135896/179877980-c0f2f04a-57b2-4a4b-afd2-8bd96b91070b.jpg)
+
 
 
 ### References
